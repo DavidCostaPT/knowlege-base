@@ -7,8 +7,6 @@ Implementing this functionality is a common use-case for developers who want to 
 As mentioned above, you can use the AudioTrack API to enable or disable an audio track. Once you've programmatically selected a track, you can use its enabled property (or method) and set it to true or false.
 
 ## Code examples
-The code examples below show how to implement toggling audio tracks. It's advised to disable audio tracks which you don't want to play, in order to avoid issues with overlapping audio.
-
-- [Web sdk]()
+- [Web SDK](https://github.com/THEOplayer/theoplayer-web/blob/master/docs/how-to-guides/playback/tracks.md)
 - [Android (TV) SDK]()
 - [iOS (/tvOS) SDK]()
